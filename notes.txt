@@ -1,0 +1,1 @@
+“Use Git to track project changes locally, then link the repository to GitHub to practice pushing and pulling updates.”
