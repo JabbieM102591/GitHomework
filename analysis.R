@@ -22,8 +22,6 @@ plot(x, y)
 abline(model)
 
 
-
-
 model1 <- lm(y ~ x)
 plot(x, y, main = "Y vs X",
      xlab = "X", ylab = "Y")
